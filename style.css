@@ -1,0 +1,33 @@
+.cabeçalho-titulo{
+    display: flex;
+    justify-content:center;
+    font-family:'inter',sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+}
+
+.cabeçalho-imagem{
+    display: block;
+    margin: auto;
+    height: 220px;
+}
+
+.PRODUTOS-DE-LIMPEZA{
+    color:#273dff;
+    margin: 2px;
+}
+
+.produtos-de-limpeza-titulo{
+    font-family:'inter' ,sans-serif;
+    font-size: 48px;
+}
+
+.produtos-de-limpeza-itens{
+    font-family:'inter' , sans-serif;
+    font-size:32px;
+    font-weight:400;
+}
+
+.HIGIENE-PESSOAL{
+    color: #;
+}
